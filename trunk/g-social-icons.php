@@ -12,7 +12,7 @@
  * Plugin Name:         G Social Icons
  * Plugin URI:          http://www.gerbenvanamstel.com
  * Description:         Easily display social media icons
- * Version:             1.1.0
+ * Version:             1.0.0
  * Author:              Gerben Van Amstel
  * Author URI:          http://www.gerbenvanamstel.com
  * Text Domain:         g-social-icons

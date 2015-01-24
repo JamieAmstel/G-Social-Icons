@@ -6,16 +6,18 @@
 
 #g-social-icons ul li {
     float:left;
+    margin-left:5px;
 }
 
 #g-social-icons ul li:first-child {
-    margin-left:0 !important;
+    margin-left:0;
 }
 
 #g-social-icons ul li a {
     border: 0;
 }
 
-#g-social-icons ul li a svg:hover {
-    opacity: 0.9;
+#g-social-icons ul li a svg {
+    width: 35px;
+    height: 35px;
 }
