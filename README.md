@@ -9,7 +9,7 @@ A WordPress plugin to easily display social media icons.
 * Set margin in-between the icons 
 * Set icon size
 * Set icon type (square/circle/rounded)
-* Shortcode support
+* Shortcode & Widget support
 
 ## Icons supported:
 
@@ -31,4 +31,4 @@ A WordPress plugin to easily display social media icons.
 
 Only fill out the URL’s for the icons which you want displayed, you can do this in Settings -> G Social Icons. Here you can also change the colour of the icons, if you leave the Icon Colour field empty the plugin will use the default original colours for the icons.
 
-Use [g-social-icons] or <?php echo do_shortcode(‘[g-social-icons]’); ?> to display them.
+Use [g-social-icons], <?php echo do_shortcode(‘[g-social-icons]’); ?> or the widget to display them.

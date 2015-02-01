@@ -10,12 +10,6 @@
  */
 
 /**
- * Plugin class. This class should ideally be used to work with the
- * public-facing side of the WordPress site.
- *
- * If you're interested in introducing administrative or dashboard
- * functionality, then refer to `class-g-social-icons-admin.php`
- *
  * @package G_Social_Icons
  * @author  Gerben Van Amstel <gerbenvanamstel@gmail.com>
  */
@@ -28,7 +22,7 @@ class G_Social_Icons {
 	 *
 	 * @var     string
 	 */
-	const VERSION = '1.0.0';
+	const VERSION = '1.2.0';
 
 	/**
 	 * Unique identifier for your plugin.

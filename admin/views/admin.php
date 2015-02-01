@@ -8,7 +8,6 @@
  * @copyright 2015 Gerben Van Amstel
  */
 ?>
-
 <div class="wrap">
 
     <h2><?php echo esc_html( get_admin_page_title() ); ?></h2>
@@ -137,6 +136,6 @@ do_settings_sections( 'g-social-icons' ); ?>
         <h5>Author: Gerben Van Amstel
         <br>Email: gerbenvanamstel@gmail.com
         <br>Website: http://www.gerbenvanamstel.com
-        <br>Version: 1.1
+        <br>Version: 1.2
     </h5>
 </div>
